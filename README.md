@@ -1,4 +1,4 @@
-# EduSphere | Cyberpunk Neon LMS & Course Recommendation Platform (MERN Stack)
+# EduSphere | Course Recommendation Platform (MERN Stack)
 
 EduSphere is a full-stack learning management platform designed with a high-fidelity **Cyberpunk Neon aesthetic**. It is built on the **MERN Stack** (React.js, Node.js/Express, MongoDB/Mongoose, JWT) and features an integrated recommendation engine that computes interests tag overlap, identifies student skill gaps, and suggests courses enrolled by similar peers.
 
